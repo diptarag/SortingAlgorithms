@@ -1,0 +1,102 @@
+﻿<Problems>
+  <Problem Id="1">
+    <Name>Bubble Sort</Name>
+    <Description>
+      Bubblesort is a popular, but inefficient, sorting algorithm. It works by repeatedly
+      swapping adjacent elements that are out of order
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General Bubble Sort"  Default="true" />      
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+  <Problem Id="2">
+    <Name>Selection Sort</Name>
+    <Description>      
+      A selection sort is an in-place comparison sort algorithm.
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General Selection Sort"  Default="true" />
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+  <Problem Id="3">
+    <Name>Insertion Sort</Name>
+    <Description>
+      A insertion sort is an in-place, adaptive, online, stable comparison sort algorithm.
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General Insertion Sort"  Default="true" />
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+  <Problem Id="4">
+    <Name>Quick Sort</Name>
+    <Description>
+      Quick Sort is a very efficient sorting algorithm which uses divide and conquer methodology.
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General Quick Sort"  Default="true" />
+      <Method Id="2" Name="Hoare's Partitioning Quick Sort" />
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+  <Problem Id="5">
+    <Name>Merge Sort</Name>
+    <Description>
+      Merge Sort is a very efficient sorting algorithm which uses divide and conquer methodology.
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General Merge Sort"  Default="true" />      
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+  <Problem Id="6">
+    <Name>Binary Search Tree Sort</Name>
+    <Description>
+      Sorting by building a Binary Search Tree is a popular sorting algorithm where Pre-Order traversal of a binary search tree produces sorting result.
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General BST Sort"  Default="true" />
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+  <Problem Id="7">
+    <Name>Heap Sort</Name>
+    <Description>
+      Heap Sort is a very efficient sorting algorithm using the concept of Max-Heap.
+    </Description>
+    <Variants>
+      <Method Id="1" Name="General Heap Sort"  Default="true" />
+    </Variants>
+    <Instruction>
+      input.txt should contain only the numbers to be sorted in a single line separated by ','
+      Example -
+      19, 5, 20, 18, 7, 6 , 2
+    </Instruction>
+  </Problem>
+</Problems>

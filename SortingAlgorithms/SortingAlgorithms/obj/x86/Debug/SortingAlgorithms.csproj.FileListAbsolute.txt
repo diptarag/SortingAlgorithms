@@ -1,0 +1,5 @@
+E:\MyOwn\SortingAlgorithms\SortingAlgorithms\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyOwn\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+E:\MyOwn\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+E:\MyOwn\SortingAlgorithms\SortingAlgorithms\obj\x86\Debug\SortingAlgorithms.exe
+E:\MyOwn\SortingAlgorithms\SortingAlgorithms\obj\x86\Debug\SortingAlgorithms.pdb
